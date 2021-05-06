@@ -1,0 +1,6 @@
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Generic_Delegates\Generic_Delegates\bin\Debug\Generic_Delegates.exe.config
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Generic_Delegates\Generic_Delegates\bin\Debug\Generic_Delegates.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Generic_Delegates\Generic_Delegates\bin\Debug\Generic_Delegates.pdb
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Generic_Delegates\Generic_Delegates\obj\Debug\Generic_Delegates.csprojResolveAssemblyReference.cache
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Generic_Delegates\Generic_Delegates\obj\Debug\Generic_Delegates.exe
+C:\Users\Zahid\Desktop\New folder\DemoApplication\Generic_Delegates\Generic_Delegates\obj\Debug\Generic_Delegates.pdb
